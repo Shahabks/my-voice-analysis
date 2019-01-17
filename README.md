@@ -1,4 +1,4 @@
-![alt text](https://github.com/Shahabks/Thought-Speech-analysis-/lablogo.jpg)
+!(https://github.com/Shahabks/Thought-Speech-analysis-/lablogo.png)
 
 # my-voice-analysis
 
