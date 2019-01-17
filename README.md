@@ -1,6 +1,7 @@
 # my-voice-analysis
 
 My-Voice Analysis is a Python library for the analysis of voice (simultaneous speech, high entropy) without the need of a transcription. It breaks utterances and detects syllable boundaries, fundamental frequency contours, and formants. Its built-in functions recognise and measures 
+
 1.	gender recognition, 
 2.	speech mood (semantic analysis), 
 3.	pronunciation posterior score 
@@ -8,20 +9,30 @@ My-Voice Analysis is a Python library for the analysis of voice (simultaneous sp
 5.	speech rate,
 6.	filler words, 
 7.	f0 statistics, 
+
 The library was developed based upon the idea introduced by Nivja DeJong and Ton Wempe [1], Paul Boersma and David Weenink [2], Carlo Gussenhoven [3], S.M Witt and S.J. Young [4] and Yannick Jadoul [5]. Peaks in intensity (dB) that are preceded and followed by dips in intensity are considered as potential syllable cores. 
 My-Voice Analysis is unique in its aim to provide a complete quantitative and analytical way to study acoustic features of a speech. Moreover, those features could be analysed further by employing Python’s functionality to provide more fascinating insights into speech patterns. 
 This library is for Linguists, scientists, developers, speech and language therapy clinics and researchers.   
 Please note that My-Voice Analysis is currently in initial state though in active development. While the amount of functionality that is currently present is not huge, more will be added over the next few months.
 
-Installation
+                                                        Installation
+
 my-voice-analysis can be installed like any other Python library, using (a recent version of) the Python package manager pip, on Linux, macOS, and Windows:
 
-pip install my-voice-analysis
+                                                 pip install my-voice-analysis
 
 or, to update your installed version to the latest release:
-pip install -u my-voice-analysis
 
-NOTE: After installing My-Voice-Analysis, copy the file myspsolution.praat from https://github.com/Shahabks/my-voice-analysis  and save in the directory where you will save audio files for analysis.
+                                                pip install -u my-voice-analysis
+
+NOTE: 
+
+After installing My-Voice-Analysis, copy the file myspsolution.praat from
+
+                                          https://github.com/Shahabks/my-voice-analysis  
+
+and save in the directory where you will save audio files for analysis.
+
 Audio files must be in *.wav format, recorded at 44 kHz sample frame and 16 bits of resolution.  
 
 Example usage
@@ -161,7 +172,7 @@ f0_quan75                244
 
 
 Development
-My-Voice-Analysis was developed by MYOLUTIONS Lab in Japan. It is part of New Generation of Voice Recognition and Analysis Project in MYSOLUTIONS Lab. That is planned to rich the functionality of My-Voice Analysis by adding more advanced functions. 
+My-Voice-Analysis was developed by MYOLUTIONS Lab in Japan. It is part of New Generation of Voice Recognition and Analysis Project in MYSOLUTIONS Lab. That is planned to enrich the functionality of My-Voice Analysis by adding more advanced functions. 
 
 References and Acknowledgements
 1.	DeJong N.H, and Ton Wempe [2009]; “Praat script to detect syllable nuclei and measure speech rate automatically”; Behavior Research Methods, 41(2).385-390.
