@@ -17,17 +17,17 @@ My-Voice Analysis is unique in its aim to provide a complete quantitative and an
 This library is for Linguists, scientists, developers, speech and language therapy clinics and researchers.   
 Please note that My-Voice Analysis is currently in initial state though in active development. While the amount of functionality that is currently present is not huge, more will be added over the next few months.
 
-                                                        Installation
+## Installation
 
 my-voice-analysis can be installed like any other Python library, using (a recent version of) the Python package manager pip, on Linux, macOS, and Windows:
 
-                                                 pip install my-voice-analysis
+                                        pip install my-voice-analysis
 
 or, to update your installed version to the latest release:
 
-                                                pip install -u my-voice-analysis
+                                         pip install -u my-voice-analysis
 
-NOTE: 
+## NOTE: 
 
 After installing My-Voice-Analysis, copy the file myspsolution.praat from
 
@@ -37,7 +37,7 @@ and save in the directory where you will save audio files for analysis.
 
 Audio files must be in *.wav format, recorded at 44 kHz sample frame and 16 bits of resolution.  
 
-Example usage
+## Example usage
 
 Gender recognition and mood of speech: Function myspgend(p,c)
 
@@ -224,11 +224,11 @@ Overview: Function mysptotal(p,c)
                                f0_quan75                244
 
 
-                                                      Development
+## Development
 
 My-Voice-Analysis was developed by MYOLUTIONS Lab in Japan. It is part of New Generation of Voice Recognition and Analysis Project in MYSOLUTIONS Lab. That is planned to enrich the functionality of My-Voice Analysis by adding more advanced functions. 
 
-                                              References and Acknowledgements
+## References and Acknowledgements
 
 1.	DeJong N.H, and Ton Wempe [2009]; “Praat script to detect syllable nuclei and measure speech rate automatically”; Behavior Research Methods, 41(2).385-390.
 2.	 Paul Boersma and David Weenink;  http://www.fon.hum.uva.nl/praat/
@@ -236,7 +236,7 @@ My-Voice-Analysis was developed by MYOLUTIONS Lab in Japan. It is part of New Ge
 4.	Witt S.M and Young S.J [2000]; “Phone-level pronunciation scoring and assessment or interactive language learning”; Speech Communication, 30 (2000) 95-108.
 5.	Jadoul Y. https://parselmouth.readthedocs.io/en/latest/installation.html 
 
-                                                       MIT License
+ ## MIT License
                                                        
 •	Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 •	The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
