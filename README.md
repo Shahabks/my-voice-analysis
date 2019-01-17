@@ -1,4 +1,4 @@
-![lablogo](https://github.com/Shahabks/my-voice-analysis/lablogo.png?raw=true)
+![Alt text](https://github.com/Shahabks/my-voice-analysis/lablogo.png?raw=true)
 
 # my-voice-analysis
 
