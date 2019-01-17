@@ -1,5 +1,4 @@
-!(C:\Users\Shahab\Desktop\100NIKON/lablogo.jpg)
-
+![alt text](https://github.com/Shahabks/Thought-Speech-analysis-/lablogo.jpg)
 
 # my-voice-analysis
 
