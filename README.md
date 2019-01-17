@@ -1,4 +1,4 @@
-![logo](https://github.com/Shahabks/Thought-Speech-analysis-/lablogo.png)
+![logo](https://github.com/Shahabks/Thought-Speech-analysis-/lablogo.png "Logo Title Text 1")
 
 # my-voice-analysis
 
