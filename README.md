@@ -38,11 +38,14 @@ Audio files must be in *.wav format, recorded at 44 kHz sample frame and 16 bits
 Example usage
 
 Gender recognition and mood of speech: Function myspgend(p,c)
-import myspsolution as mysp
-p="Walkers" # Audio File title
-c=r"C:\Users\Shahab\Desktop\Mysp" # Path to the Audio_File directory (Python 3.7)
-mysp.myspgend(p,c)
-[] a female, mood of speech: Reading, p-value/sample size= :0.00 5
+
+                    [in]  import myspsolution as mysp
+                         
+                         p="Walkers" # Audio File title
+                         c=r"C:\Users\Shahab\Desktop\Mysp" # Path to the Audio_File directory (Python 3.7)
+                         mysp.myspgend(p,c)
+                    
+                    [out] a female, mood of speech: Reading, p-value/sample size= :0.00 5
 
 Pronunciation posteriori probability score percentage: Function mysppron(p,c)
 import myspsolution as mysp
