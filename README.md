@@ -1,5 +1,5 @@
-![GitHub Logo](C:\Users\Shahab\Desktop\100NIKON/lablogo.jpg)
-Format: ![Alt Text](url)
+!(C:\Users\Shahab\Desktop\100NIKON/lablogo.jpg)
+
 
 # my-voice-analysis
 
