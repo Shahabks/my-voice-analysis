@@ -1,4 +1,4 @@
-![Alt text](https://drive.google.com/drive/u/1/my-drive/lablogo.png)
+![Alt text](https://github.com/Shahabks/my-voice-analysis/Lablogo.png)
 
 # my-voice-analysis
 
