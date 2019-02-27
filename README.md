@@ -1,4 +1,4 @@
-# *myprosody package includes all my-voice-analysis functions plus new functions which you might consider. The latest myproody update is available here, in Github as well as PYPI, the python library.*  
+## *myprosody package includes all my-voice-analysis' functions plus new functions which you might consider to use instead. The latest myproody update is available here, in Github as well as PYPI, the python library.*  
 
 # my-voice-analysis
 
