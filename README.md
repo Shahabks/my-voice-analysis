@@ -1,3 +1,6 @@
+
+# myspsolution has been revised please upload the new version on the master branch, my-voice-analysis setup.py and __ini__.py have been revised too. my-voice-analysis PYPI also has been upgraded. March 2019
+
 ## *myprosody package includes all my-voice-analysis' functions plus new functions which you might consider to use instead. The latest myproody update is available here, in Github as well as PYPI, the python library.*  
 
 # my-voice-analysis
