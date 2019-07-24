@@ -239,6 +239,7 @@ My-Voice-Analysis was developed by Sab-AI Lab in Japan (previously called Mysolu
 4.	Witt S.M and Young S.J [2000]; “Phone-level pronunciation scoring and assessment or interactive language learning”; Speech Communication, 30 (2000) 95-108.
 5.	Jadoul, Y., Thompson, B., & de Boer, B. (2018). Introducing Parselmouth: A Python interface to Praat. Journal of Phonetics,
    71, 1-15. https://doi.org/10.1016/j.wocn.2018.07.001 (https://parselmouth.readthedocs.io/en/latest/)
+6. Projects https://parselmouth.readthedocs.io/en/docs/examples.html
 
  ### MIT License
                                                        
