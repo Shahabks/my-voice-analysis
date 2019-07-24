@@ -229,7 +229,7 @@ Overview: Function mysptotal(p,c)
 
 ## Development
 
-My-Voice-Analysis was developed by MYOLUTIONS Lab in Japan. It is part of New Generation of Voice Recognition and Analysis Project in MYSOLUTIONS Lab. That is planned to enrich the functionality of My-Voice Analysis by adding more advanced functions. 
+My-Voice-Analysis was developed by Sab-AI Lab in Japan (previously called Mysolution). It is part of a project to develop Acoustic Models for linguistics in Sab-AI Lab. That is planned to enrich the functionality of My-Voice Analysis by adding more advanced functions as well as adding a language models. Please see Myprosody https://github.com/Shahabks/myprosody and Speech-Rater https://shahabks.github.io/Speech-Rater/)
 
 ## References and Acknowledgements
 
