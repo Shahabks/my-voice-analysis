@@ -3,6 +3,12 @@
 
 ## *myprosody package includes all my-voice-analysis' functions plus new functions which you might consider to use instead. The latest myproody update is available here, in Github as well as PYPI, the python library.*  
 
+## NOTE:
+    1- 1- Both My-Voice-Analysis and Myprosody work on Python 3.7 
+    2- If you install My-Voice-Analysis through PyPi, please use: 
+          mysp=__import__("my-voice-analysis") instead of import myspsolution as mysp
+    3- It it better to keep the folder names as single entities for instance "Name_Folder" or "NameFolder" without space in the dirctoy path
+
 # my-voice-analysis
 
 My-Voice Analysis is a Python library for the analysis of voice (simultaneous speech, high entropy) without the need of a transcription. It breaks utterances and detects syllable boundaries, fundamental frequency contours, and formants. Its built-in functions recognise and measures 
