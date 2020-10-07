@@ -1,3 +1,6 @@
+[![GitHub stars](https://img.shields.io/github/stars/Shahabks/my-voice-analysis?style=flat-square)](https://github.com/Shahabks/my-voice-analysis/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/Shahabks/my-voice-analysis?style=flat-square&color=blueviolet)](https://github.com/Shahabks/my-voice-analysis/network/members)
+
 
 ## myspsolution.praat has been revised please upload the new version on the master branch, my-voice-analysis setup.py and __ini__.py have been revised too. my-voice-analysis PYPI also has been upgraded. March 2019
 
