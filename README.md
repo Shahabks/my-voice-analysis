@@ -240,6 +240,14 @@ Overview: Function mysptotal(p,c)
 
 My-Voice-Analysis was developed by Sab-AI Lab in Japan (previously called Mysolution). It is part of a project to develop Acoustic Models for linguistics in Sab-AI Lab. That is planned to enrich the functionality of My-Voice Analysis by adding more advanced functions as well as adding a language models. Please see Myprosody https://github.com/Shahabks/myprosody and Speech-Rater https://shahabks.github.io/Speech-Rater/)
 
+## Pronunciation
+My-Voice-Analysis and MYprosody repos are two capsulated libraries from one of our main projects on speech scoring. The main project (its early version) employed ASR and used the Hidden Markov Model framework to train simple Gaussian acoustic models for each phoneme for each speaker in the given available audio datasets, then calculating all the symmetric K-L divergences for each pair of models for each speaker. What you see in these repos are just an approximate of those model without paying attention to level of accuracy of each phenome rather on fluency 
+In the project's machine learning model we considered audio files of speakers who possessed an appropriate degree of pronunciation, either in general or for a specific utterance, word or phoneme, (in effect they had been rated with expert-human graders). Here below the figure illustrates some of the factors that the expert-human grader had considered in rating as an overall score
+
+![image](https://user-images.githubusercontent.com/27753966/98312800-cf583a80-2015-11eb-9ecb-99658ecabdbb.png)
+
+> [S. M. Witt, 2012 “Automatic error detection in pronunciation training: Where we are and where we need to go,” ](https://www.researchgate.net/publication/250306074_Automatic_Error_Detection_in_Pronunciation_Training_Where_we_are_and_where_we_need_to_go)
+
 ## References and Acknowledgements
 
 1.	DeJong N.H, and Ton Wempe [2009]; “Praat script to detect syllable nuclei and measure speech rate automatically”; Behavior Research Methods, 41(2).385-390.
